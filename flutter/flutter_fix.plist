@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.isc.mobimap.mobimapFlutter</string>
+				<string>com.fpt.rii.mobimap</string>
 				<key>bundle-version</key>
 				<string>3.26.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>MobiMap Flutter</string>
+				<string>Rii MobiMap</string>
 			</dict>
 		</dict>
 	</array>
