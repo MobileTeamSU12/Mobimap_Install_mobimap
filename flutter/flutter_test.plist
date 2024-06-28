@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.fpt.rii.mobimap</string>
+				<string>com.fpt.rii.mobimap.stag</string>
 				<key>bundle-version</key>
 				<string>3.26.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Rii MobiMap</string>
+				<string>Rii MobiMap Stag</string>
 			</dict>
 		</dict>
 	</array>
